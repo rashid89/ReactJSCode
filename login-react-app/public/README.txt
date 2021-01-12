@@ -1,4 +1,4 @@
-Follow the below steps
+Follow the below steps to run
 
 1. npm install
 2. npm start
